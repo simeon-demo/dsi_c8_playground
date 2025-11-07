@@ -1,2 +1,2 @@
 Hello, World!
-I This is my new file for the class exercise.
+This is my new file for the class exercise.
