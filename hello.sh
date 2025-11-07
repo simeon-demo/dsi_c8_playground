@@ -1,1 +1,1 @@
-Hello team, this is Nicole Yeung.
+echo "Hello!"
